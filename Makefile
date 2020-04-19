@@ -1,4 +1,4 @@
-PROJECT = wti-data
+PROJECT = capstone
 PYTHON_VERSION=3.7
 venv_name = py${PYTHON_VERSION}-${PROJECT}
 venv = .venv/${venv_name}
